@@ -341,7 +341,7 @@ Note: The Power BI Desktop MCP extension has its own license. Please refer to th
 
 For questions, issues, or suggestions:
 - **GitHub Issues:** Open an issue in this repository
-- **LinkedIn:** [Connect with me]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/pawan-pande?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjvE97gOUQrir8c5sJq5Pgg%3D%3D))
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/pawan-pande?))
 - **Extension Issues:** Report to [Maxim's Repository](https://github.com/maxanatsko/pbi-desktop-mcp-public/issues)
 
 ---
